@@ -1,0 +1,32 @@
+main {
+    width: 60%;
+    margin: 100px auto;
+    border: 2px solid black;
+    padding: 50px;
+    padding-bottom: 0px;
+    border-radius: 20px;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+button {
+    background-color: burlywood;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+}
+
+.szuro {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 50px;
+    text-decoration: overline;
+}
